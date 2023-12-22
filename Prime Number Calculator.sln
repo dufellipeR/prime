@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Number Calculator", "Prime Number Calculator.csproj", "{8CE34354-9F5F-44A2-9BBF-B962AA9F868C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE34354-9F5F-44A2-9BBF-B962AA9F868C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE34354-9F5F-44A2-9BBF-B962AA9F868C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE34354-9F5F-44A2-9BBF-B962AA9F868C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE34354-9F5F-44A2-9BBF-B962AA9F868C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E518BE9B-6B21-4A40-8830-693A31BB32E2}
+	EndGlobalSection
+EndGlobal
