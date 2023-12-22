@@ -1,9 +1,9 @@
 # Prime Number Calculator
 
 This WPF application receives an integer and returns whether it is a prime number and its prime factors.
-
-!alt text
-
+<p align="center">
+  <img src="https://github.com/dufellipeR/prime/blob/master/imgs/main.png?raw=true" alt="Main window" width="768" height="432">
+</p>
 
 ## How to Run/Build the Project
 
@@ -22,6 +22,9 @@ This WPF application receives an integer and returns whether it is a prime numbe
 
 Suppose you want to check if the number 17 is prime and to display its prime factors. Here's how you can do it:
 
-1. Enter `17` in the **Insert number** field.
+1. Enter `21` in the **Insert number** field.
 2. Click the **Calculate** button.
-3. The application will display the message "17 is a prime number and its prime factors are 17" in the **Result** field.
+
+<p align="center">
+  <img src="https://github.com/dufellipeR/prime/blob/master/imgs/result.png?raw=true" alt="result window" width="768" height="432">
+</p>
